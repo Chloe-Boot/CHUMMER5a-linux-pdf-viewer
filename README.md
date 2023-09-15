@@ -1,5 +1,5 @@
 # CHUMMER5a-linux-pdf-viewer
-A quick and dirty script to open pdf files from chummer directly in your native linux pdf viewer of choice.
+A quick and dirty script to open pdf files from [chummer5a](https://github.com/chummer5a/chummer5a) directly in your native linux pdf viewer of choice.
 
 ## Installation
 1. Move the script to a location accessable by your current WINE prefix.
